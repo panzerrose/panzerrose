@@ -2,7 +2,7 @@
   "editor.background": "$deepGunmetal",
   "editor.foreground": "$warmIvory",
   "editorCursor.foreground": "$roseGold",
-  "editor.lineHighlightBackground": "$panzerGrey",
+  "editor.lineHighlightBackground": "$lineHighlight",
   "editor.selectionBackground": "$feldgrau",
 
   "activityBar.background": "$darkBrownBlack",

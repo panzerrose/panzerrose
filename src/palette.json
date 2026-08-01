@@ -8,9 +8,12 @@
   "roseGold": "#C68F7B",
   "copperRose": "#B97A67",
   "mutedOlive": "#87936F",
+  "commentOlive": "#737D63",
+  "lineHighlight": "#353C4238",
   "feldgrau": "#626D5D",
   "steelGrey": "#98A2A8",
   "sand": "#C2A478",
+  "functionSand": "#D4B77F",
   "errorRed": "#C26B6B",
   "warningAmber": "#C8A35D"
 }

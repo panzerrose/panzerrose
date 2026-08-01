@@ -5,7 +5,7 @@
     "editor.background": "#151719",
     "editor.foreground": "#E7E0D8",
     "editorCursor.foreground": "#C68F7B",
-    "editor.lineHighlightBackground": "#31383E",
+    "editor.lineHighlightBackground": "#353C4238",
     "editor.selectionBackground": "#626D5D",
     "activityBar.background": "#181615",
     "activityBar.foreground": "#E7E0D8",
@@ -59,7 +59,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#87936F"
+        "foreground": "#737D63"
       }
     },
     {
@@ -104,7 +104,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#B97A67"
+        "foreground": "#D4B77F"
       }
     },
     {

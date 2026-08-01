@@ -7,7 +7,7 @@
     ],
     "settings": {
       "fontStyle": "italic",
-      "foreground": "$mutedOlive"
+      "foreground": "$commentOlive"
     }
   },
   {
@@ -52,7 +52,7 @@
       "meta.function-call"
     ],
     "settings": {
-      "foreground": "$copperRose"
+      "foreground": "$functionSand"
     }
   },
   {
