@@ -1,0 +1,21 @@
+{
+  "name": "panzerrose",
+  "displayName": "Panzerrose",
+  "description": "A dark VS Code theme inspired by Panzer Grey, muted olive tones and warm rose-gold accents.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Panzerrose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Panzerrose-color-theme.json"
+      }
+    ]
+  }
+}
