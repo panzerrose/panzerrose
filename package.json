@@ -2,6 +2,7 @@
   "name": "panzerrose",
   "displayName": "Panzerrose",
   "description": "A dark VS Code theme inspired by Panzer Grey, muted olive tones and warm rose-gold accents.",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/panzerrose/panzerrose.git"
