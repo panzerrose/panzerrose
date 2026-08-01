@@ -2,51 +2,52 @@
   "name": "Panzerrose",
   "type": "dark",
   "colors": {
-    "editor.background": "#1B1E20",
+    "editor.background": "#151719",
     "editor.foreground": "#E7E0D8",
     "editorCursor.foreground": "#C68F7B",
-    "editor.lineHighlightBackground": "#383F45",
-    "editor.selectionBackground": "#697463",
-    "activityBar.background": "#211E1D",
+    "editor.lineHighlightBackground": "#31383E",
+    "editor.selectionBackground": "#626D5D",
+    "activityBar.background": "#181615",
     "activityBar.foreground": "#E7E0D8",
-    "activityBar.inactiveForeground": "#B4ACA5",
-    "activityBarBadge.background": "#C68F7B",
-    "activityBarBadge.foreground": "#1B1E20",
-    "sideBar.background": "#2F353B",
+    "activityBar.inactiveForeground": "#A7A09A",
+    "activityBarBadge.background": "#C2A478",
+    "activityBarBadge.foreground": "#151719",
+    "sideBar.background": "#31383E",
     "sideBar.foreground": "#E7E0D8",
     "sideBarTitle.foreground": "#C2A478",
-    "sideBarSectionHeader.background": "#383F45",
+    "sideBarSectionHeader.background": "#353C42",
     "sideBarSectionHeader.foreground": "#E7E0D8",
-    "titleBar.activeBackground": "#211E1D",
+    "titleBar.activeBackground": "#181615",
     "titleBar.activeForeground": "#E7E0D8",
-    "titleBar.inactiveBackground": "#1B1E20",
-    "titleBar.inactiveForeground": "#B4ACA5",
-    "editorGroupHeader.tabsBackground": "#211E1D",
-    "tab.activeBackground": "#1B1E20",
+    "titleBar.inactiveBackground": "#151719",
+    "titleBar.inactiveForeground": "#A7A09A",
+    "editorGroupHeader.tabsBackground": "#181615",
+    "tab.activeBackground": "#151719",
     "tab.activeForeground": "#E7E0D8",
     "tab.activeBorderTop": "#C68F7B",
-    "tab.inactiveBackground": "#2F353B",
-    "tab.inactiveForeground": "#B4ACA5",
-    "panel.background": "#1B1E20",
-    "panel.border": "#697463",
-    "panelTitle.activeForeground": "#C68F7B",
-    "panelTitle.inactiveForeground": "#B4ACA5",
-    "statusBar.background": "#697463",
+    "tab.inactiveBackground": "#31383E",
+    "tab.inactiveForeground": "#A7A09A",
+    "panel.background": "#31383E",
+    "panel.border": "#353C42",
+    "panelTitle.activeForeground": "#E7E0D8",
+    "panelTitle.activeBorder": "#C68F7B",
+    "panelTitle.inactiveForeground": "#A7A09A",
+    "statusBar.background": "#181615",
     "statusBar.foreground": "#E7E0D8",
     "statusBar.debuggingBackground": "#C8A35D",
-    "input.background": "#211E1D",
+    "input.background": "#151719",
     "input.foreground": "#E7E0D8",
-    "input.border": "#697463",
-    "inputOption.activeBorder": "#C68F7B",
-    "dropdown.background": "#2F353B",
+    "input.border": "#353C42",
+    "inputOption.activeBorder": "#B97A67",
+    "dropdown.background": "#31383E",
     "dropdown.foreground": "#E7E0D8",
-    "dropdown.border": "#697463",
+    "dropdown.border": "#353C42",
     "button.background": "#C68F7B",
-    "button.foreground": "#1B1E20",
+    "button.foreground": "#151719",
     "button.hoverBackground": "#B97A67",
     "focusBorder": "#C68F7B",
     "foreground": "#E7E0D8",
-    "descriptionForeground": "#B4ACA5",
+    "descriptionForeground": "#A7A09A",
     "errorForeground": "#C26B6B"
   },
   "tokenColors": [
@@ -69,7 +70,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#C68F7B"
+        "foreground": "#B97A67"
       }
     },
     {
@@ -137,7 +138,7 @@
         "punctuation"
       ],
       "settings": {
-        "foreground": "#B4ACA5"
+        "foreground": "#A7A09A"
       }
     },
     {
@@ -147,7 +148,7 @@
         "punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#C68F7B"
+        "foreground": "#98A2A8"
       }
     },
     {

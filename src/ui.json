@@ -2,13 +2,13 @@
   "editor.background": "$deepGunmetal",
   "editor.foreground": "$warmIvory",
   "editorCursor.foreground": "$roseGold",
-  "editor.lineHighlightBackground": "$raisedPanzerGrey",
+  "editor.lineHighlightBackground": "$panzerGrey",
   "editor.selectionBackground": "$feldgrau",
 
   "activityBar.background": "$darkBrownBlack",
   "activityBar.foreground": "$warmIvory",
   "activityBar.inactiveForeground": "$mutedText",
-  "activityBarBadge.background": "$roseGold",
+  "activityBarBadge.background": "$sand",
   "activityBarBadge.foreground": "$deepGunmetal",
 
   "sideBar.background": "$panzerGrey",
@@ -29,23 +29,24 @@
   "tab.inactiveBackground": "$panzerGrey",
   "tab.inactiveForeground": "$mutedText",
 
-  "panel.background": "$deepGunmetal",
-  "panel.border": "$feldgrau",
-  "panelTitle.activeForeground": "$roseGold",
+  "panel.background": "$panzerGrey",
+  "panel.border": "$raisedPanzerGrey",
+  "panelTitle.activeForeground": "$warmIvory",
+  "panelTitle.activeBorder": "$roseGold",
   "panelTitle.inactiveForeground": "$mutedText",
 
-  "statusBar.background": "$feldgrau",
+  "statusBar.background": "$darkBrownBlack",
   "statusBar.foreground": "$warmIvory",
   "statusBar.debuggingBackground": "$warningAmber",
 
-  "input.background": "$darkBrownBlack",
+  "input.background": "$deepGunmetal",
   "input.foreground": "$warmIvory",
-  "input.border": "$feldgrau",
-  "inputOption.activeBorder": "$roseGold",
+  "input.border": "$raisedPanzerGrey",
+  "inputOption.activeBorder": "$copperRose",
 
   "dropdown.background": "$panzerGrey",
   "dropdown.foreground": "$warmIvory",
-  "dropdown.border": "$feldgrau",
+  "dropdown.border": "$raisedPanzerGrey",
 
   "button.background": "$roseGold",
   "button.foreground": "$deepGunmetal",
