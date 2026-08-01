@@ -1,3 +1,22 @@
+/*
+===========================================
+DO NOT EDIT
+
+Panzerrose-color-theme.json is generated.
+
+Edit:
+
+- palette.json
+- ui.json
+- syntax.json
+
+then run
+
+npm run build
+===========================================
+*/
+
+
 const fs = require("node:fs");
 const path = require("node:path");
 

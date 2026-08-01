@@ -2,11 +2,19 @@
   "name": "panzerrose",
   "displayName": "Panzerrose",
   "description": "A dark VS Code theme inspired by Panzer Grey, muted olive tones and warm rose-gold accents.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panzerrose/panzerrose.git"
+  },
+  "homepage": "https://github.com/panzerrose/panzerrose",
+    "bugs": {
+        "url": "https://github.com/panzerrose/panzerrose/issues"
+  },
   "version": "0.0.1",
   "scripts": {
-  "build": "node src/build.js",
-  "watch": "node --watch src/build.js"
-},
+    "build": "node src/build.js",
+    "watch": "node --watch src/build.js"
+  },
   "engines": {
     "vscode": "^1.125.0"
   },
