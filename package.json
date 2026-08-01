@@ -3,6 +3,10 @@
   "displayName": "Panzerrose",
   "description": "A dark VS Code theme inspired by Panzer Grey, muted olive tones and warm rose-gold accents.",
   "version": "0.0.1",
+  "scripts": {
+  "build": "node src/build.js",
+  "watch": "node --watch src/build.js"
+},
   "engines": {
     "vscode": "^1.125.0"
   },

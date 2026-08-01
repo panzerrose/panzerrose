@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Comments",
+    "scope": [
+      "comment",
+      "punctuation.definition.comment"
+    ],
+    "settings": {
+      "fontStyle": "italic",
+      "foreground": "$mutedOlive"
+    }
+  },
+  {
+    "name": "Keywords and storage",
+    "scope": [
+      "keyword",
+      "storage.type",
+      "storage.modifier"
+    ],
+    "settings": {
+      "foreground": "$roseGold"
+    }
+  },
+  {
+    "name": "Strings",
+    "scope": [
+      "string",
+      "constant.other.symbol"
+    ],
+    "settings": {
+      "foreground": "$mutedOlive"
+    }
+  },
+  {
+    "name": "Numbers and constants",
+    "scope": [
+      "constant.numeric",
+      "constant.language",
+      "constant.character",
+      "constant.escape"
+    ],
+    "settings": {
+      "foreground": "$sand"
+    }
+  },
+  {
+    "name": "Functions and methods",
+    "scope": [
+      "entity.name.function",
+      "variable.function",
+      "support.function",
+      "meta.function-call"
+    ],
+    "settings": {
+      "foreground": "$copperRose"
+    }
+  },
+  {
+    "name": "Classes, types and namespaces",
+    "scope": [
+      "entity.name.type",
+      "entity.name.class",
+      "entity.name.namespace",
+      "support.type",
+      "support.class"
+    ],
+    "settings": {
+      "foreground": "$steelGrey"
+    }
+  },
+  {
+    "name": "Variables",
+    "scope": [
+      "variable",
+      "variable.other",
+      "variable.parameter"
+    ],
+    "settings": {
+      "foreground": "$warmIvory"
+    }
+  },
+  {
+    "name": "Operators and punctuation",
+    "scope": [
+      "keyword.operator",
+      "punctuation"
+    ],
+    "settings": {
+      "foreground": "$mutedText"
+    }
+  },
+  {
+    "name": "HTML and XML tags",
+    "scope": [
+      "entity.name.tag",
+      "punctuation.definition.tag"
+    ],
+    "settings": {
+      "foreground": "$roseGold"
+    }
+  },
+  {
+    "name": "Attributes and properties",
+    "scope": [
+      "entity.other.attribute-name",
+      "support.type.property-name",
+      "meta.object-literal.key"
+    ],
+    "settings": {
+      "foreground": "$sand"
+    }
+  },
+  {
+    "name": "Invalid code",
+    "scope": [
+      "invalid",
+      "invalid.illegal"
+    ],
+    "settings": {
+      "foreground": "$errorRed"
+    }
+  }
+]

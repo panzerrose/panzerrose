@@ -1,0 +1,58 @@
+{
+  "editor.background": "$deepGunmetal",
+  "editor.foreground": "$warmIvory",
+  "editorCursor.foreground": "$roseGold",
+  "editor.lineHighlightBackground": "$raisedPanzerGrey",
+  "editor.selectionBackground": "$feldgrau",
+
+  "activityBar.background": "$darkBrownBlack",
+  "activityBar.foreground": "$warmIvory",
+  "activityBar.inactiveForeground": "$mutedText",
+  "activityBarBadge.background": "$roseGold",
+  "activityBarBadge.foreground": "$deepGunmetal",
+
+  "sideBar.background": "$panzerGrey",
+  "sideBar.foreground": "$warmIvory",
+  "sideBarTitle.foreground": "$sand",
+  "sideBarSectionHeader.background": "$raisedPanzerGrey",
+  "sideBarSectionHeader.foreground": "$warmIvory",
+
+  "titleBar.activeBackground": "$darkBrownBlack",
+  "titleBar.activeForeground": "$warmIvory",
+  "titleBar.inactiveBackground": "$deepGunmetal",
+  "titleBar.inactiveForeground": "$mutedText",
+
+  "editorGroupHeader.tabsBackground": "$darkBrownBlack",
+  "tab.activeBackground": "$deepGunmetal",
+  "tab.activeForeground": "$warmIvory",
+  "tab.activeBorderTop": "$roseGold",
+  "tab.inactiveBackground": "$panzerGrey",
+  "tab.inactiveForeground": "$mutedText",
+
+  "panel.background": "$deepGunmetal",
+  "panel.border": "$feldgrau",
+  "panelTitle.activeForeground": "$roseGold",
+  "panelTitle.inactiveForeground": "$mutedText",
+
+  "statusBar.background": "$feldgrau",
+  "statusBar.foreground": "$warmIvory",
+  "statusBar.debuggingBackground": "$warningAmber",
+
+  "input.background": "$darkBrownBlack",
+  "input.foreground": "$warmIvory",
+  "input.border": "$feldgrau",
+  "inputOption.activeBorder": "$roseGold",
+
+  "dropdown.background": "$panzerGrey",
+  "dropdown.foreground": "$warmIvory",
+  "dropdown.border": "$feldgrau",
+
+  "button.background": "$roseGold",
+  "button.foreground": "$deepGunmetal",
+  "button.hoverBackground": "$copperRose",
+
+  "focusBorder": "$roseGold",
+  "foreground": "$warmIvory",
+  "descriptionForeground": "$mutedText",
+  "errorForeground": "$errorRed"
+}
